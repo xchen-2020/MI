@@ -1,0 +1,1 @@
+"use strict";var btn1=document.getElementsByClassName("banner-wrap-region"),btn2=document.getElementsByClassName("banner-phone-number");btn1.onclick=function(){},btn2.onclick=function(){};
